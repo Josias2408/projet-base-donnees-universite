@@ -88,8 +88,8 @@ Les tests incluent :
 
 ## Auteur
 
-Nom : Josias  
-Statut : Étudiant  
+Nom : koumaka kondi Josias  
+Statut : Étudiant en premiere annee SRI 
 
 ---
 
